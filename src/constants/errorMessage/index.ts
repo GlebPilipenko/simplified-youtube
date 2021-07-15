@@ -1,0 +1,3 @@
+export const ERROR_MESSAGE = `
+Check your internet connection or reload the page...
+`;

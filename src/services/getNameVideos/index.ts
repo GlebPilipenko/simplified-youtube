@@ -1,0 +1,1 @@
+export { getNameVideos } from './getNameVideos';

@@ -1,0 +1,1 @@
+export { useHideAlert } from './useHideAlert';

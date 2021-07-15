@@ -1,0 +1,23 @@
+.container input[type="file"] {
+  display: none;
+}
+
+.custom-upload {
+  width: 100%;
+  border: 1px solid transparent;
+  border-radius: 4px;
+  background: hotpink;
+  padding: 6px 12px;
+  text-align: center;
+  color: #fff;
+}
+
+.custom-upload:hover {
+  cursor: pointer;
+  background: #e74b99;
+}
+
+.btn {
+  width: 100%;
+  margin: 0 0 8px;
+}

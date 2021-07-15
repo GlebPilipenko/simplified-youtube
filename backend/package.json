@@ -1,0 +1,24 @@
+{
+  "name": "simplified-youtube-backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "src/app.js",
+  "scripts": {
+    "start": "node src/app.js",
+    "server": "nodemon src/app.js"
+  },
+  "author": "Gleb Pilipenka",
+  "license": "ISC",
+  "dependencies": {
+    "concurrently": "6.2.0",
+    "config": "3.3.6",
+    "cors": "2.8.5",
+    "express": "4.17.1",
+    "multer": "1.4.2",
+    "path": "0.12.7"
+  },
+  "devDependencies": {
+    "nodemon": "2.0.8",
+    "supertest": "6.1.3"
+  }
+}
