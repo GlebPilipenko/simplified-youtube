@@ -1,17 +1,19 @@
-## Projects
+## Projects 
 
 The project consists of two parts - (frontend / and backend - folder backend)
 
-## Start Project
+## Install Project
+- Open terminal => `npm install`
+- Open terminal, change directory `cd backend`, `npm install`
 
 ## Start UI:
-In project folder `npm start`
+- Open terminal => `npm start`
 
 UI start in http://localhost:3000/upload
 
 ## Start backend
 
-Open new terminal => cd backend => press Enter - `npm run server`
+- Open terminal, change directory `cd backend`, `npm run server`
 
 Backend start in http://localhost:8080/
 
